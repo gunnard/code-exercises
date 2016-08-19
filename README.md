@@ -1,4 +1,4 @@
-# form-code-test
+# Code Exercises
 This is a collection of different code exercises I have done for job interviews.
 
 checkForCapital.php - PHP function that checks if the first letter of a string is a capital
